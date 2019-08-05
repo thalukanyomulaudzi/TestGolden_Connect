@@ -35,7 +35,7 @@ namespace Design370
 
         private void Button1_Click_1(object sender, EventArgs e)
         {
-            //Check
+            //Checkk
             this.Close();
         }
 
